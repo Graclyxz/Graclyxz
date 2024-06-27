@@ -29,7 +29,7 @@
 - 📄 Conoce mis <a href="#" target="blank">Experiencias</a>
 
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me / Conectate conmigo 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me / Conectate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 
 <p align="center">
 
@@ -53,7 +53,6 @@
       </div>
 
 </p>
-
 
 <br>
 
@@ -130,9 +129,8 @@
 </p>
 
 <br>
-<br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 
