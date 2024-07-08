@@ -28,7 +28,7 @@
 - 📝 Aprendo y me adapto rapido a mis entornos de trabajo
 - 💬 Mi correo institucional es: jose.villavicencio@unl.edu.ec
 - 💬 Mi correo personal es: jxavier2525@gmail.com
-- 📄 Conoce mis <a href="https://xavierlvill2525.github.io/portfolio/" target="_blank" >Experiencias</a>
+- 📄 Conoce mis <a href="https://xavierlvill2525.github.io/portfolio/" target="blank" >Experiencias</a>
 
 <!--- Redes sociales -->
 <br/>
