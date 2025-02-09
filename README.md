@@ -95,7 +95,7 @@
     ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
     ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+    ![Odoo](https://img.shields.io/badge/odoo-330F63?style=for-the-badge&logo=odoo&logoColor=white)
 
 
 - **Database**:
