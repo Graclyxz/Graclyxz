@@ -23,7 +23,7 @@
 </picture>
 
 <!--- sobre mi -->
-<br>
+<!---<br>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **SOBRE MI**
 
 <a target="_blank" align="center">
@@ -38,7 +38,7 @@
 - 📝 Aprendo y me adapto rapido a mis entornos de trabajo
 - 💬 Mi correo institucional es: jose.villavicencio@unl.edu.ec
 - 💬 Mi correo personal es: jxavier2525@gmail.com
-- 📄 Conoce mis <a href="https://xavierlvill2525.github.io/portfolio/" target="blank" >Experiencias</a>
+- 📄 Conoce mis <a href="https://xavierlvill2525.github.io/portfolio/" target="blank" >Experiencias</a>-->
 
 <!--- Redes sociales -->
 <br/>
@@ -136,7 +136,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Graclyxz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=jahirtrap&style=flat-square&color=000000)
+![](https://komarev.com/ghpvc/?username=graclyxz&style=flat-square&color=000000)
 </div>
 
 
