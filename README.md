@@ -7,20 +7,24 @@
 </p>
 
 <!--- snake -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <a href="https://snake-game.vercel.app" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+    </picture>
+  </a>
+</p>
 
 <!--- sobre mi -->
 <!---<br>
@@ -51,7 +55,7 @@
 <a style="margin-left: 10px;" target="_blank" href="https://github.com/XavierlVill2525"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/xavier.villavisencio"> <img src="https://img.icons8.com/doodle/40/000000/facebook-new--v2.png"></a>	 
 <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/xavier_villavicencio_a/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/p8rcjihv39hn5e07amzoyn2p8"><img src="https://img.icons8.com/doodle/40/000000/spotify--v2.png"></a>
+<!---<a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/p8rcjihv39hn5e07amzoyn2p8"><img src="https://img.icons8.com/doodle/40/000000/spotify--v2.png"></a>-->
 </div>
 
 </p>
@@ -131,11 +135,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Graclyxz">
-  <img src="https://github-readme-stats.vercel.app/api?username=Graclyxz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Graclyxz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-</a>
+![Graclyxz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Graclyxz&show_icons=true&hide=issues&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Graclyxz&layout=compact&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=graclyxz&style=flat-square&color=000000)
 </div>
